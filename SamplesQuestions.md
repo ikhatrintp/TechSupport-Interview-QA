@@ -111,8 +111,6 @@
 27. How do you check a Cisco router's configuration?
 28. How do you backup a Cisco router config file?
 
-# Technical Interview Questions
-
 ## Active Directory, Exchange, Server, Microsoft 365, and Azure Related
 
 1. What is Active Directory?
