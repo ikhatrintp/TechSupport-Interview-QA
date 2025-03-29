@@ -1,3 +1,11 @@
+# IT Support Knowledge Base
+
+This repository contains a collection of frequently asked questions and answers, troubleshooting guides, and key IT concepts. The content here is designed to help IT support specialists, especially in managed service providers (MSPs), with common IT support issues.
+
+---
+
+## FAQ and IT Concepts
+
 # Networking Concepts
 
 ## 1. What is TCP/IP?
@@ -47,14 +55,6 @@ A **MAC** (Media Access Control) address is a unique identifier assigned to a ne
 
 ## 14. What is a Domain?
 A **Domain** is a logical grouping of network resources, including computers, servers, and user accounts, that share a common set of rules and policies. It enables centralized management and administration of these resources within a network.
-
-# IT Support Knowledge Base
-
-This repository contains a collection of frequently asked questions and answers, troubleshooting guides, and key IT concepts. The content here is designed to help IT support specialists, especially in managed service providers (MSPs), with common IT support issues.
-
----
-
-## FAQ and IT Concepts
 
 ### 15. What is Jump Box?
 A jump box is a secure access point used to manage and administer other systems within a network.
