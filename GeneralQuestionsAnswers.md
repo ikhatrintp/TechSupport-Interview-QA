@@ -157,40 +157,289 @@ BitLocker is a Microsoft feature providing full disk encryption to safeguard dat
   3. The client replies with ACK, confirming the connection.
 - TCP is a connection-oriented protocol, ensuring reliable and ordered data transfer between devices. It guarantees error-checking, acknowledgment, and retransmission mechanisms, making it more reliable but slightly slower than UDP.
 
-### 45. UDP
-UDP is a connectionless protocol that does not establish a direct connection before transmitting data. It is faster and more efficient than TCP and is used in applications requiring speed over guaranteed delivery, such as real-time streaming, online gaming, and VoIP.
+## 45. UDP
+
+**Description:**
+UDP (User Datagram Protocol) is a connectionless protocol, meaning it does not establish a direct connection before transmitting data. It is faster and more efficient than TCP since it does not have the overhead of establishing and maintaining a connection. 
+
+**Key Points:**
+- Does not guarantee data delivery, order, or error-checking.
+- A "best-effort" protocol.
+- Ideal for real-time applications where speed is crucial, such as streaming, online gaming, and VoIP.
+- Tolerates occasional data loss.
 
 ---
 
-## Troubleshooting and User Interaction Examples
+## 46. Experienced in Managing Microsoft Teams Room Video
 
-- **How you diagnose printer issues**
-  1. Gather information from the user.
-  2. Examine the physical condition and connections of the printer.
-  3. Verify printer drivers.
-  4. Clear the print queue and test on another device.
-  5. Review printer settings and check for firewall/antivirus interference.
-  6. Use diagnostic tools if necessary and contact manufacturer support if needed.
+**Description:**
+I possess significant expertise in deploying and managing Microsoft Teams Room Video Conference rooms. My experience includes hardware installation, software configuration, and seamless integration with Microsoft 365 accounts.
 
----
-
-## Interview Tips & Personal Experience
-
-- **Strength:** One of my strengths is my strong technical skills and ability to troubleshoot IT issues efficiently. I have a solid understanding of various systems and technologies, allowing me to provide effective support to end-users.
-- **Weakness:** I sometimes focus too much on solving complex technical problems, which can take more time than necessary. However, I am working to improve my time management skills.
-- **How do you stay motivated at work?**
-  My motivation comes from problem-solving, as it keeps me engaged and constantly thinking.
+**Key Points:**
+- Troubleshooting audio-visual issues.
+- Ensuring optimal performance.
+- Conducting user training.
+- Managing remote updates and documentation.
 
 ---
 
-## IT Support Scenario Solutions
+## 47. How Can You Backup Outlook Emails?
 
-- **How to backup Outlook emails:** The best option is to use PST files. We can use the export option in Outlook to get a PST file for backup.
-- **How do you troubleshoot a computer that is unable to connect to the internet?** Run network diagnostics, check physical connections, DNS, firewall settings, and proxy configurations.
-- **How do you handle a frustrated user?** I remain calm, empathize, and work with the user to resolve the issue, keeping them informed throughout the process.
+**Description:**
+The best option for backing up Outlook emails is by using PST files. You can export Outlook data to a PST file for backup.
+
+**Steps:**
+1. Use the export option in Outlook.
+2. Select "PST" as the file format.
+3. Save and store the file in a secure location.
 
 ---
 
-## Conclusion
+## 48. Trust Relationship Issue
 
-This repository serves as a helpful guide for IT professionals, offering solutions to common IT problems and helpful information about various technologies. Feel free to contribute, suggest improvements, or ask questions via issues or pull requests.
+**Description:**
+When encountering a trust relationship error while joining a domain, the following steps can be helpful.
+
+**Steps:**
+1. Log in as a local administrator.
+2. Run the necessary PowerShell command.
+3. Check network connectivity, time synchronization, and ensure the account isn't disabled.
+4. Remove and rejoin the domain if needed.
+5. Investigate DNS issues and review event logs.
+6. Reset the machine account or check for Active Directory (AD) replication problems.
+
+---
+
+## 49. Outlook is Not Connected?
+
+**Description:**
+To troubleshoot Outlook connectivity issues, follow these steps:
+
+**Steps:**
+1. Confirm the user's complaint and check network connectivity.
+2. Review and verify Outlook configuration settings.
+3. Test the email server's accessibility.
+4. Check firewall or antivirus blocking.
+5. Restart Outlook and the computer.
+6. Test other applications for internet connectivity.
+7. Start Outlook in Safe Mode or create a new profile if necessary.
+8. Escalate to higher-level support if needed.
+
+---
+
+## 50. Outlook Email Not Receiving
+
+**Description:**
+To resolve issues where Outlook is not receiving emails, follow these troubleshooting steps:
+
+**Steps:**
+1. Verify the issue and check the email server status.
+2. Review inbox rules and filters.
+3. Test send/receive functionality.
+4. Restart Outlook and verify firewall/antivirus settings.
+5. Check account settings and try a different device.
+6. Clear cached credentials and disable add-ins if necessary.
+7. Reach out to the email service provider if the issue persists.
+
+---
+
+## 51. How Do You Diagnose Printer Issues?
+
+**Description:**
+To diagnose printer issues, follow a systematic troubleshooting approach:
+
+**Steps:**
+1. Gather information from the user regarding the issue.
+2. Check the physical condition of the printer and verify all connections.
+3. Ensure the correct printer drivers are installed and up-to-date.
+4. Clear the print queue and test with another device if possible.
+5. Review printer settings and check for firewall or antivirus interference.
+6. Use printer diagnostic tools if available.
+7. Contact the printer manufacturer for guidance if needed.
+
+---
+
+## 52. Tell Me About Yourself
+
+**Description:**
+I have over 6 years of experience in IT support and am certified in CompTIA Security+, Network+, and Microsoft Azure Fundamentals. I specialize in managing various systems and networks and excel at troubleshooting complex technical issues. I am seeking to join a growth-oriented organization where I can provide excellent customer service and continue to expand my skills.
+
+**Key Skills:**
+- Active Directory Services, Exchange Server, Office 365, Group Policy, DHCP, DNS, VoIP.
+- Networking: TCP/IP, routing, LAN/WAN, switching, firewall rules, VPN.
+
+---
+
+## 53. What is Your Recent Project?
+
+**Description:**
+As an IT Support Specialist at Orion Consultant, I recently worked on configuring and maintaining the network infrastructure, including switches, routers, firewalls, and wireless access points. Additionally, I managed user accounts in Active Directory, provided desktop and mobile support, and assisted with Office 365 and Azure-related issues for global users.
+
+---
+
+## 54. Strength
+
+**Description:**
+One of my strengths is my strong technical skills and ability to troubleshoot and resolve IT issues efficiently. My solid understanding of various systems and technologies allows me to provide effective support to end-users.
+
+---
+
+## 55. Weakness
+
+**Description:**
+I sometimes get too focused on solving complex technical problems, which can lead to spending more time than necessary on a single issue. However, I am actively working on improving my time management skills to balance thoroughness with efficiency.
+
+---
+
+## 56. How Do You Keep Yourself Updated with Current Technology?
+
+**Description:**
+I stay updated through online courses, certifications, tech news, forums, social media, conferences, and experimenting with new technologies. Security is a top priority for me to provide efficient IT support.
+
+---
+
+## 57. What is Your Troubleshooting Process?
+
+**Description:**
+My troubleshooting process involves actively listening to the user's problem, gathering information, and applying a systematic approach to identify and implement solutions. I maintain clear communication with the user and document the steps for future reference.
+
+---
+
+## 58. Where Do You See Yourself in 5 Years?
+
+**Description:**
+In the next 5 years, I aim to take on more responsibilities and contribute significantly to the organization's growth. I plan to stay updated with emerging technologies and strive for leadership roles to enhance team performance.
+
+---
+
+## 59. How Do You Handle a Frustrated User?
+
+**Description:**
+I remain calm, empathize, and actively listen to the user’s concerns. I ensure they understand I’m there to help, and I guide them through step-by-step troubleshooting. If needed, I escalate the issue while keeping the user informed.
+
+---
+
+## 60. "Why Should We Hire You?"
+
+**Description:**
+You should hire me because I have a solid background in IT Helpdesk support, providing excellent customer service, and resolving technical issues efficiently. I adapt easily to new technologies, work well in fast-paced environments, and have strong communication skills.
+
+---
+
+## 61. How Many Tickets Did You Solve in a Day?
+
+**Description:**
+In my previous role, I handled 20 to 25 tickets per day on average. However, I prioritize quality over quantity, ensuring each issue is thoroughly resolved.
+
+---
+
+## 62. How Do You Prioritize Tasks?
+
+**Description:**
+I prioritize tasks based on their importance, urgency, and impact. This helps me focus on tasks that require immediate attention and align with organizational priorities.
+
+---
+
+## 63. How Do You Handle a Situation When You Don’t Know the Solution to a User's Problem?
+
+**Description:**
+If I don't know the solution immediately, I inform the user that I’ll investigate the issue and get back to them. I research the problem, consult documentation or colleagues, and escalate if necessary.
+
+---
+
+## 64. How Do You Troubleshoot a Computer That Is Unable to Connect to the Internet?
+
+**Description:**
+1. Check physical connections and Wi-Fi signal strength.
+2. Verify if other devices can connect to the same network.
+3. Test DNS by accessing websites via their IP addresses.
+4. Review proxy settings.
+5. Use diagnostic tools (ping, traceroute, ipconfig/ifconfig).
+6. Check firewall settings.
+
+---
+
+## 65. Share an Experience Where You Went Above and Beyond to Provide Exceptional Customer Service.
+
+**Description:**
+A user faced recurring software crashes. I not only resolved the issue but also conducted a remote training session to help them better navigate the software, leaving them empowered and appreciative.
+
+---
+
+## 66. Tell Me About a Time When You Had to Manage Multiple Tasks Simultaneously.
+
+**Description:**
+I often balanced user requests, troubleshooting, and system updates. By prioritizing tasks based on urgency and impact, I ensured timely resolutions while maintaining smooth IT operations.
+
+---
+
+## 67. Share an Example of a Challenging Technical Problem You Faced. How Did You Approach It?
+
+**Description:**
+I handled a network outage affecting multiple users. I quickly assembled a team, identified the root cause, and reconfigured a network switch, restoring services efficiently.
+
+---
+
+## 68. Describe a Situation Where You Had to Explain a Complex Technical Issue to a Non-Technical User.
+
+**Description:**
+A user had trouble understanding a software error message. I used analogies and visual aids to explain the issue and guide them through troubleshooting, making it clear and easy to follow.
+
+---
+
+## 69. Tell Me About a Time You Had to Handle a User's Frustration with Technology.
+
+**Description:**
+A user was frustrated with email errors. I empathized, assured them we'd resolve the issue, and guided them through troubleshooting. Their frustration eased, and they appreciated the resolution.
+
+---
+
+## 70. Share an Experience Where You Went Above and Beyond to Provide Exceptional Customer Service. (Duplicate)
+
+**Description:**
+A user faced persistent software crashes. I fixed the issue and conducted a training session to help them navigate the software better, leaving them empowered.
+
+---
+
+## 71. Tell Me About a Time You Collaborated Effectively with Colleagues from Different Departments.
+
+**Description:**
+During a system migration, I worked closely with the HR department to ensure smooth user account transfers. Our collaboration made the transition seamless.
+
+---
+
+## 72. Share an Experience Where You Identified a Process Improvement Opportunity. How Did You Implement It?
+
+**Description:**
+I noticed that our software deployment process was inefficient. I proposed automation through scripting, presented the benefits, and successfully implemented the solution.
+
+---
+
+## 73. Describe a Situation Where You Successfully Resolved a Conflict Within Your Team.
+
+**Description:**
+During a busy period, my team disagreed on task prioritization. I facilitated a discussion, highlighted urgency, and reached a consensus that allowed us to manage tasks efficiently.
+
+---
+
+## 74. Tell Me About a Time When You Made a Mistake. How Did You Handle It?
+
+**Description:**
+I misconfigured network settings, which caused connectivity issues. I immediately addressed the mistake, fixed the issue, and documented the correct procedure to prevent future occurrences.
+
+---
+
+## 75. MSP (Managed Service Provider)
+
+**Description:**
+An MSP is a company that provides managed IT services to clients, including network monitoring, cybersecurity, and IT support, typically on a subscription basis.
+
+---
+
+## 76. Do You Have Any Questions?
+
+**Questions to Ask:**
+1. What incident management software does your company use for IT support?
+2. How many people are currently in the desktop support department?
+
+---
