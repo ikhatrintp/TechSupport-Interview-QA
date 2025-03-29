@@ -36,7 +36,7 @@
 11. Describe a situation where you had to learn something new in the IT field. How did you handle it?
 12. If we called two of your past employers, how would they describe you?
 13. Give an example of how you set priorities and managed time effectively.
-14.  ####Describe three ways you ensure proper customer service over the phone.
+14.  ##### Describe three ways you ensure proper customer service over the phone.
 15. Describe a time when customer feedback led you to change how you work.
 16. Give an example of a customer request that could not be accommodated. What was your response?
 17. What would you do if you disagreed with your supervisor’s instructions on completing a task?
