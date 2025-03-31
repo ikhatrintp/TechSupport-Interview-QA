@@ -119,3 +119,15 @@ This document covers key email protocols, their functionalities, and related con
 | IMAP | 143 | Unencrypted |
 | IMAP | 993 | SSL/TLS |
 | HTTPS | 443 | Webmail/Exchange services |
+
+### If whole company not receiving email:
+1. Fix reverse DNS (contact ISP to configure for business domain)
+2. Check MX records
+3. Verify SMTP server is responding
+
+### If email not sending:
+1. Check A record
+2. Check MX record
+3. Test SMTP server response:
+   ```bash
+   telnet mail.example.com 25
